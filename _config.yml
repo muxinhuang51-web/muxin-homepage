@@ -5,11 +5,10 @@ title                    : "黄慕鑫 / xjtu29th"
 title_separator          : "-"
 name                     : &name "黄慕鑫 muxinhuang"
 description              : &description "黄慕鑫的学术主页"
-url                      : "https://muxinhuang51-web.github.io"
-baseurl                  : "/muxin-homepage"
+url                      : "https://muxin-homepage.vercel.app"
+baseurl                  : ""
 repository               : "muxinhuang51-web/muxin-homepage"
 
-# Site Author
 author:
   avatar                 : "images/profile.png"
   name                   : "黄慕鑫"
