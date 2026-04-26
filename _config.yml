@@ -10,7 +10,7 @@ baseurl                  : ""
 repository               : "muxinhuang51-web/muxin-homepage"
 
 author:
-  avatar                 : "images/profile.png"
+  avatar                 : "profile.png"
   name                   : "黄慕鑫"
   pronouns               : ""
   bio                    : "西安交通大学，机器学习方向。"
