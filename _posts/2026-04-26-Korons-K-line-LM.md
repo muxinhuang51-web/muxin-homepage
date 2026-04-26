@@ -4,7 +4,7 @@ title: "Koronos,一个K线LM"
 date: 2026-04-26
 categories: 笔记
 tags: [量化,AI,学习]
-math:true
+math: true
 ---
 # Kronos: A Foundation Model for the Language of Financial Markets
 https://github.com/shiyu-coder/Kronos
