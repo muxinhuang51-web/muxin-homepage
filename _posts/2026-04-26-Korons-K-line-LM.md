@@ -1,12 +1,28 @@
 ---
 layout: post
-title: "Koronos,一个K线LM"
+title: "Kronos, 一个K线LM"
 date: 2026-04-26
 categories: 笔记
-tags: [量化,AI,学习]
+tags: [量化, AI, 学习]
 math: true
 ---
+
+<!-- 强制加载 MathJax，不受主题配置影响 -->
+<script type="text/x-mathjax-config">
+MathJax.Hub.Config({
+  tex2jax: {
+    inlineMath: [['$','$'], ['\\(','\\)']],
+    displayMath: [['$$','$$'], ['\\[','\\]']],
+    processEscapes: true
+  }
+});
+</script>
+<script type="text/javascript" async
+  src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+
 # Kronos: A Foundation Model for the Language of Financial Markets
+...
 https://github.com/shiyu-coder/Kronos
 ## 今天我们要介绍的是Kronos，一个由清华大学开源的K线基础模型
 1. 什么是基础模型（LM）？
